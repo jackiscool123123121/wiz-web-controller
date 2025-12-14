@@ -2,6 +2,9 @@
 
 A web-based control interface for WiZ smart lights with an animated aurora effect background.
 
+# NOTE
+this code is ai writen 
+
 ## Features
 
 - Beautiful aurora animation effect with smooth color transitions
